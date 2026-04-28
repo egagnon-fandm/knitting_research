@@ -1,0 +1,50 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "iUlIKVPPH1uX6uqnfQiyj",
+      "name": "Blue",
+      "value": "#0000ff"
+    },
+    {
+      "id": "HwtZHffgLqQyKrc0Pqv-2",
+      "name": "Red",
+      "value": "#ff0000"
+    },
+    {
+      "id": "ZK5oknlKCRXYwttUfuqaO",
+      "name": "Green",
+      "value": "#00ff00"
+    },
+    {
+      "id": "_yU1rWmGc6JFEWYZOmKqQ",
+      "name": "Cyan",
+      "value": "#00ffff"
+    },
+    {
+      "id": "yk8Pqzu-jBSUxGbR8r0dW",
+      "name": "Purple",
+      "value": "#ff00ff"
+    },
+    {
+      "id": "iv0rn2bLnCOJAhcPZSgzV",
+      "name": "Yellow",
+      "value": "#ffff00"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Daily",
+      "color": "iUlIKVPPH1uX6uqnfQiyj"
+    },
+    {
+      "path": "Excalidraw",
+      "color": "HwtZHffgLqQyKrc0Pqv-2"
+    },
+    {
+      "path": "Templates",
+      "color": "ZK5oknlKCRXYwttUfuqaO"
+    }
+  ]
+}
