@@ -1,2 +1,12 @@
 # knitting_research
-Collection of research projects to study the Physics of knitted fabrics
+Collection of research projects to study the Physics of knitted fabrics.
+
+## Obsidian
+Folder template for students' Obsidian notebook.
+
+Steps:
+- Download the latest version of [Obsidian](https://obsidian.md/download) on your computer. 
+- Download the "knitting_research" repository to your computer.
+- Copy and paste the "Obsidian" folder to where you want to keep your notes and rename the folder to something descriptive (Knitting_Research_FandM, Knitting_Research_Summer_XX, etc.). 
+- Open Obsidian on your computer and select "Open Vault". Select your newly created folder.
+- Review the "How to Use" page in your new notebook.
