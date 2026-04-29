@@ -1,6 +1,12 @@
 # knitting_research
 Collection of research projects to study the Physics of knitted fabrics.
 
+## Data analysis
+
+- Node position analysis: Track the position of control points on stitches in photo data.
+- Stress_strain_curves: Calculates the stress and strain from the force and position data and creates figures.
+
+
 ## Obsidian
 Folder template for students' Obsidian notebook.
 
