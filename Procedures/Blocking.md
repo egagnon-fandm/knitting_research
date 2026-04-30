@@ -1,0 +1,19 @@
+- Soaking:
+    - Fill basin with water. Mix in one drop of soap.
+    - Submerge fabric.
+    - Soak for 20-30 minutes.
+- Prepare for blocking:
+    - Remove the sample from the basin and gently press it between cloths to remove excess water. Avoid wringing or twisting the fabric.
+    - Insert blocking needles along all four sides of the sample. On the two sides with metal rings, pass the blocking needles through the metal rings. On the other two sides without metal rings, insert the needles through the outermost loops together with the waste yarn.
+- Blocking:
+    - Put the sample flat on the foam blocking board.
+    - Use small pins to prevent the metal rods away from the hanging masses from sliding. Each rod should have at least 3 pins to prevent bowing.
+    - Attach two masses to the other metal rods using the metal hooks. The hooks should be centered on the rods.
+- Visual check:
+    - Make sure that the fabric looks rectangular. Metal rods on opposite sides of the sample should be parallel.
+    - Make sure that none of the rods are conflicting with the mounting hardware. The rods with the hanging masses should be able to move freely.
+- Recording:
+    - Make a note (Notebook, tag, etc.) of the blocking.
+- Drying:
+    - Let the fabric dry completely under tension. It usually takes about a 1 day unless the fabric was still very wet when put on the blocking mat.
+    - After blocking, leave the sample flat on the table under no external stress until a measurement is made.
