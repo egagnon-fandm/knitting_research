@@ -1,0 +1,22 @@
+
+- [ ] Create a folder on your computer that will contain everything related to your research. We will backup all of your work at regular intervals. Having everything in one place is necessary.
+- [ ] In you work folder, set up your Obsidian notebook, ideally as a subfolder. (Steps are available on GitHub.)
+- [ ] Open or download the  [Wiki](https://github.com/egagnon-fandm/knitting_knowledge.git). If you download, put it in your work folder.
+- [ ] Review the following topics:
+	- [ ] Stress
+	- [ ] Strain
+	- [ ] Stress-strain curve
+	- [ ] Hooke's law
+	- [ ] Tangent modulus
+	- [ ] Knitted fabrics
+	- [ ] Stitch types
+	- [ ] Yarn
+	- [ ] Wale and course
+- [ ] Go through the following tutorials:
+	- [ ] Stress
+	- [ ] Strain
+	- [ ] Stress-strain curves
+	- [ ] Yarn bending energy
+	- [ ] Yarn compression energy
+- [ ] Make sure that you can run python scripts on your computer. 
+- [ ] Read papers related to project (both the Wiki entry and actual paper found [here](https://drive.google.com/drive/folders/1SIgg3CaOBDpScxYRx_STF6FFo-gXcuIE?usp=drive_link)).

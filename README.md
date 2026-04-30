@@ -16,3 +16,7 @@ Steps:
 - Copy and paste the "Obsidian" folder to where you want to keep your notes and rename the folder to something descriptive (Knitting_Research_FandM, Knitting_Research_Summer_XX, etc.). 
 - Open Obsidian on your computer and select "Open Vault". Select your newly created folder.
 - Review the "How to Use" page in your new notebook.
+
+## Procedures
+- Blocking: How to prepare swatch samples after fabrication and between runs.
+- Starting_with_research: List of steps to do early in the summer/semester.
