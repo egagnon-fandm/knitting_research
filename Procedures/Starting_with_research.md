@@ -16,6 +16,7 @@
 	- [ ] Stress
 	- [ ] Strain
 	- [ ] Stress-strain curves
+	- [ ] Knitted fabric
 	- [ ] Yarn bending energy
 	- [ ] Yarn compression energy
 - [ ] Make sure that you can run python scripts on your computer. 
