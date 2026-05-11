@@ -19,5 +19,5 @@
 	- [ ] Knitted fabric
 	- [ ] Yarn bending energy
 	- [ ] Yarn compression energy
-- [ ] Make sure that you can run python scripts on your computer. 
+- [ ] Make sure that you can run python scripts on your computer. Test your systems with the testing_python.py script in this folder. 
 - [ ] Read papers related to project (both the Wiki entry and actual paper found [here](https://drive.google.com/drive/folders/1SIgg3CaOBDpScxYRx_STF6FFo-gXcuIE?usp=drive_link)).
