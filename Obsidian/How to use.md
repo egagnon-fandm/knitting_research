@@ -25,7 +25,10 @@ This template creates a new note in the folder matching the day's date. If that 
 To create the new note, press "*Alt+n*" and select "Daily". Enter the tags as necessary and a short description of the note.
 ### Knit data
 When taking data about a knitted sample, there is a lot of information to collect. To help keep track, you can insert the "knit data" template into any note where you are keeping track of the data acquisition. To do so, press "*Alt+e*" and select "knit data". 
-## Meeting
+### Meeting
 This template creates a new note in the folder matching the day's date. If that folder doesn't exist, it first creates it. 
 
 To create the new note, press "*Alt+n*" and select "Meeting". The #meeting tag is automatically applied. Enter additional the tags as necessary and a short description of the meeting.
+
+### Project update
+When in a meeting note about the status of your project, press "*Alt+e*" and select to include these standard questions. Answering them will help you situate your work for yourself and for the rest of the group. As you recap your work, you can add links to your notes from that week. 
